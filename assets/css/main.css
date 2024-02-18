@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'sora';
+    src: url('../../assets/fonts/Sora.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body{
+    font-family: sora;
+}
+
+html {
+    scroll-behavior: smooth;
+}

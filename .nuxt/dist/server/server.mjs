@@ -1,0 +1,1 @@
+export { default } from "file:///home/cyrus/Bureau/PERSO/figmaToCode/FigmaToCode-Challenge-Week4-cyrusDev/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"
