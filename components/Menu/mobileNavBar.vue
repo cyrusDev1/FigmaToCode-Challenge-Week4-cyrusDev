@@ -9,7 +9,7 @@
             </div>
         </div>
 
-        <transition name="fade" v-if="showToggleMenu" class="z-50 py-8 px-5">
+        <transition name="fade" v-if="showToggleMenu" class="z-50 py-4 px-5">
             <div class="fixed top-0 w-4/5 right-0 h-full bg-black">
                 <div class="cursor-pointer flex justify-end">
                     <img @click="closeToggleMenu()" class="w-8" src="../../public/img/icons/close.svg" alt="Logo">

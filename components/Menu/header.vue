@@ -1,5 +1,5 @@
 <template>
-    <header class="mx-5 2xl:ml-[102px] 2xl:mr-28 py-4" id="home">
+    <header class="mx-5 2xl:ml-[102px] 2xl:mr-28 lg:py-4" id="home">
         <Head>
             <Title>CyrusDev | Developper</Title>
         </Head>
