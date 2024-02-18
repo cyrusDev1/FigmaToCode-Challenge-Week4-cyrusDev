@@ -17,7 +17,7 @@
                 </ul>
             </div>
             <div @mouseover="handleMouseOver" @mouseleave="handleMouseLeave"
-                class=" transition ease-in-out duration-500 flex items-center gap-4 bg-black rounded text-white cursor-pointer hover:bg-white hover:text-black border-2 border-black p-3 text-xl font-bold">
+                class=" transition ease-in-out duration-700 flex items-center gap-4 bg-black rounded text-white cursor-pointer hover:bg-white hover:text-black border-2 border-black p-3 text-xl font-bold">
                 <a class="" href="#">Resume</a>
                 <img class="h-1/2"
                 :src="isHovered ? download.imgHover : download.img" alt="">

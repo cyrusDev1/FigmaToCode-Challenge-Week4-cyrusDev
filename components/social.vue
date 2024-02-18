@@ -1,5 +1,5 @@
 <template>
-    <div class="p-4 border-2 hover:bg-black cursor-pointer border-black rounded"
+    <div class="transition ease-in-out duration-700 p-4 border-2 hover:bg-black cursor-pointer border-black rounded"
         @mouseover="handleMouseOver" @mouseleave="handleMouseLeave">
         <img :src="isHovered ? social.imgHover : social.img" alt="social">
     </div>
